@@ -23,7 +23,8 @@ To understand which factors influence employee attrition and build machine learn
    pip install -r requirements.txt
 3.Open the notebook:
 Launch Jupyter Notebook and open Employee_Turnover_Prediction.ipynb to start exploring.
-Additional Note:
-You may need to install the Graphviz program on your system for Graphviz to work:
-For Ubuntu: sudo apt install graphviz
-For Windows: https://graphviz.org/download/
+
+## ⚠️ Additional Note:
+ You may need to install the Graphviz program on your system for Graphviz to work:
+ -For Ubuntu: sudo apt install graphviz
+ -For Windows: https://graphviz.org/download/
