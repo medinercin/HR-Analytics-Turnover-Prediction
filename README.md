@@ -20,6 +20,6 @@ To understand which factors influence employee attrition and build machine learn
    cd HR-Analytics-Turnover-Prediction
 2. Install the dependencies:  
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 3.Open the notebook:
 Launch Jupyter Notebook and open Employee_Turnover_Prediction.ipynb to start exploring.
