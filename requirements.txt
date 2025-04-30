@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+yellowbrick
+pandas-profiling
+graphviz
+ipywidgets
+jupyter
+Ekstra Not:
+graphviz için sistemine ayrıca Graphviz programını kurman gerekebilir:
+Ubuntu için: sudo apt install graphviz
+Windows için: https://graphviz.org/download/
